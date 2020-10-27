@@ -1,3 +1,6 @@
 # hello-world
 My first GitHub repository...
-ZoolanderMicro (where small ideas are a big deal) started as a company name to add on order forms. With some suppliers, I would user Maker's Dozen as an identity. Though I am an active Maker, I really like the concept of ZoolanderMicro because I have so many small ideas. So, in contribution to the Maker Verse, I will be posting my projects here.  One of my small ideas is to buy the domain name ZoolanderMicro.com. Some of my projects may become marketable and could be promoted through a web site, and this repository may be linked to ZoolanderMicro.com. 
+ZoolanderMicro (where small ideas are a big deal) started as a company name to add on order forms. With some suppliers, I would use Maker's Dozen as an identity. Though I am an active Maker, I really like the concept of ZoolanderMicro because I have so many small ideas. So, in contribution to the Maker Verse, I will be posting my projects here.  One of my small ideas is to buy the domain name ZoolanderMicro.com. Some of my projects may become marketable and could be promoted through a web site, and this repository may be linked to ZoolanderMicro.com. 
+
+Update 10/27/2020...
+I did buy the ZoolanderMicro.com domain, and I have a page up! I also added some updated code to my repository. 
